@@ -1,0 +1,14 @@
+{
+  "vocab": 2048,
+  "width": 288,
+  "heads": 6,
+  "kv_heads": 3,
+  "hidden_dim": 768,
+  "residual_dropout": 0.19,
+  "dropout": 0.14,
+  "rope_base": 10000,
+  "rope_fraction": 0.95,
+  "depth": 8,
+  "context": 256,
+  "n_global_tokens": 12
+}
