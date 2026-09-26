@@ -9,14 +9,22 @@ code/venv/
 env/
 .venv/
 
-# Training outputs
-runs/
+# Training outputs (keep only student_my in repo)
+runs/baseline-test/
+runs/old_try/
+runs/student2/
+runs/student_my_01/
+runs/student_my_02/
+runs/student_my_03/
+runs/student_my_back/
+runs/student_my_no_gate_temp/
+runs/student_my_no_gm/
 outputs/
 logs/
 
 # Checkpoints (large files)
-*.pt
-*.pth
+# *.pt
+# *.pth
 
 # IDE
 .vscode/
