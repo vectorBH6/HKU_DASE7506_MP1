@@ -10,15 +10,15 @@ env/
 .venv/
 
 # Training outputs (keep only code/runs/student_my in repo)
-code/runs/baseline-test/**
-code/runs/old_try/**
-code/runs/student2/**
-code/runs/student_my_01/**
-code/runs/student_my_02/**
-code/runs/student_my_03/**
-code/runs/student_my_back/**
-code/runs/student_my_no_gate_temp/**
-code/runs/student_my_no_gm/**
+code/runs/baseline-test
+code/runs/old_try
+code/runs/student2
+code/runs/student_my_01
+code/runs/student_my_02
+code/runs/student_my_03
+code/runs/student_my_back
+code/runs/student_my_no_gate_temp
+code/runs/student_my_no_gm
 outputs/
 logs/
 
