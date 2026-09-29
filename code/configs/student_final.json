@@ -1,0 +1,13 @@
+{
+  "vocab": 2048,
+  "width": 288,
+  "heads": 6,
+  "kv_heads": 3,
+  "hidden_dim": 640,
+  "residual_dropout": 0.15,
+  "dropout": 0.10,
+  "rope_base": 10000,
+  "rope_fraction": 0.7,
+  "depth": 7,
+  "context": 256
+}
